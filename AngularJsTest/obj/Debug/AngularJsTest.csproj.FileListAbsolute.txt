@@ -1,0 +1,275 @@
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\csc.exe
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\vbc.exe
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\AngularJsTest.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\AngularJsTest.pdb
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\EntityFramework.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Owin.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Razor.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\WebGrease.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.Razor.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.pdb
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\EntityFramework.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.dll
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.pdb
+C:\Users\JiangYanJun\Desktop\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\csc.exe
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\vbc.exe
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\AngularJsTest.dll.config
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\AngularJsTest.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\AngularJsTest.pdb
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\EntityFramework.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Owin.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Razor.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\WebGrease.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.Razor.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.pdb
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\EntityFramework.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.pdb
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\csc.exe
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\vbc.exe
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\AngularJsTest.dll.config
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\AngularJsTest.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\AngularJsTest.pdb
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Owin.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Razor.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\WebGrease.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Razor.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.pdb
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.dll
+C:\Users\JiangYanJun\Desktop\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.pdb
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\csc.exe
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\System.Collections.Immutable.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\vbc.exe
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\roslyn\VBCSCompiler.exe.config
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\AngularJsTest.dll.config
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\AngularJsTest.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\AngularJsTest.pdb
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Web.Infrastructure.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Owin.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Razor.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\WebGrease.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Helpers.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Mvc.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Optimization.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.Razor.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Deployment.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\System.Web.WebPages.Razor.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Antlr3.Runtime.pdb
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Newtonsoft.Json.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\EntityFramework.SqlServer.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Core.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Facebook.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Cookies.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.OAuth.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Google.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.Twitter.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.csprojResolveAssemblyReference.cache
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.dll
+E:\工作室\Project Code\AngularJsDemo\AngularJsTest\AngularJsTest\obj\Debug\AngularJsTest.pdb

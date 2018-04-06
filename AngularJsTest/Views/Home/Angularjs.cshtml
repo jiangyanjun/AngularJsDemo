@@ -1,0 +1,199 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="//cdn.bootcss.com/bootstrap/4.0.0-alpha.2/css/bootstrap.css" rel="stylesheet">
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="https://code.angularjs.org/1.5.6/angular.js"></script>
+    <title>Angularjs</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row" ng-controller="TaskCtrl-1">
+            <div class="col-lg-3">
+                <fieldset>
+                    <legend>Demo One</legend>
+                    <div class="input-group">
+                        <input ng-model="task" type="text" class="form-control" />
+                        <span class="input-group-btn">
+                            <button class="btn btn-info" ng-click="add()">ADD</button>
+                        </span>
+                    </div>
+                    <h4 ng-if="tasks.length>0">任务列表</h4>
+                    <ul class="list-group">
+                        <li ng-repeat="item in tasks track by $index" class="list-group-item">{{item}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <button class="btn btn-primary" ng-click="tasks.splice($index,1)">Delete</button>
+                        </li>
+                    </ul>
+                </fieldset>
+            </div>
+            <div class="col-lg-9">
+                <hello hello class="hello"></hello>
+            </div>
+        </div>
+        <div ng-controller="TaskCtrl-2"></div>
+        <ul>
+            <li ng-repeat="x in names">{{x.Name+','+x.Country}}
+            </li>
+        </ul>
+    </div>
+
+
+
+    <h2>AngularJS Sample Application</h2>
+    <div ng-controller="TaskCtrl-3">
+        <table style="width: 50%;" class="table table-striped">
+            <tr>
+                <td>姓名</td>
+                <td>年龄</td>
+                <td>颜值</td>
+                <td>操作</td>
+            </tr>
+            <tr ng-repeat="item in list">
+                <td>{{item.name}}</td>
+                <td>{{item.age}}</td>
+                <td>{{item.yz}}</td>
+                <td>
+                    <button class="btn btn-default" ng-click="del(item.id)">删除</button>
+                    <button class="btn btn-default" ng-click="update(item.id)">修改</button>
+                </td>
+            </tr>
+        </table>
+        <button class="btn btn-primary btn-lg" data-toggle="modal"
+            data-target="#myModal">
+            ADD
+        </button>
+    </div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+<script type="text/javascript">
+    angular.module('app', [])
+   .controller('TaskCtrl-1', function ($scope) {
+       $scope.task = "";
+       $scope.tasks = [];
+       $scope.add = function () {
+           if ($scope.task.length > 0)
+               $scope.tasks.push($scope.task);
+       }
+   }).directive('hello', function () {
+       return {
+           restrict: 'E',//E是标签 A
+           replace: false,//true是替换掉定义标签
+           template: ' <fieldset><legend>Demo Two</legend><div class="input-group"><label>Unit</label>&nbsp;<input type="number" ng-model="cost" />&nbsp;<label>US Dollar</label>&nbsp;<input type="number" ng-model="qty" />&nbsp;<b>Toltal:&nbsp;&nbsp;</b>{{cost*qty|currency}}</div></fieldset>'
+       }
+   }).directive('hello', function () {
+       return {
+           restrict: 'A',
+           link: function () {
+               alert("我是属性");
+           }
+       }
+   }).directive('hello', function () {
+       return {
+           restrict: 'C',
+           link: function () {
+               alert("我是类(Class)");
+           }
+       }
+   }).controller("TaskCtrl-2", function ($scope, $http) {
+       $http.get("").success(function (response) {
+           $scope.names = response.records;
+       })
+   }).controller("TaskCtrl-3", function ($scope, $http, $location) {
+       show_list($http, $scope);
+       $scope.del = function (id) {
+           $http.get("/Home/del?id=" + id)
+           .success(function (response) {
+               alert("删除成功");
+               show_list($http, $scope);
+           });
+       };
+       $scope.update = function (id) {
+           //跳页面
+           var list = $scope.list;
+           $.each(list, function (i, item) {
+               if (item.id == id)
+               {
+                   $("#name").val(item.name);
+                   $("#age").val(item.age);
+                   $("#yz").val(item.yz);
+               }
+           })
+           $("#myModal").modal('show');
+
+       };
+   });
+    function show_list($http, $scope) {
+        $http.get("/Home/AngularjsGetList")
+        .success(function (response) {
+            $scope.list = response;
+        });
+    }
+</script>
+
+
+
+
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog"
+    aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close"
+                    data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title" id="myModalLabel">ADD
+                </h4>
+            </div>
+            <div class="modal-body">
+                <iframe style="display: none;" name="gg"></iframe>
+                <form action="/Home/add" method="post" name="formname" target="gg">
+                    <table class="info_form table table-striped">
+                        <tr>
+                            <td>姓名</td>
+                            <td>
+                                <input name="name" id="name" /></td>
+                        </tr>
+                        <tr>
+                            <td>年龄</td>
+                            <td>
+                                <input name="age" id="age" /></td>
+                        </tr>
+                        <tr>
+                            <td>颜值</td>
+                            <td>
+                                <input name="yz" id="yz" /></td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default"
+                    data-dismiss="modal">
+                    关闭
+                </button>
+                <button type="button" onclick="document.formname.submit()" class="btn btn-primary">
+                    提交更改
+                </button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal -->
+</div>
